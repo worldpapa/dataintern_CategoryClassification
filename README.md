@@ -19,4 +19,4 @@ BFIC의 부산시 외국인 민원 비공개 데이터를 이용하여 이 데�
     - 그 결과 테스트 정확도 84% 로 유의미한 카테고리 분류 AI 모델 생성
 - 임의의 문의 내용을 인풋하면 예측 라벨(카테고리)를 아웃풋 하도록 하는 모델 결과 도출
 
-* 자세한 코드는 [클릭](https://github.com/worldpapa/dataintern_CategoryClassification/blob/main/_bficCategoryClassificationModeling.ipynb) 참고 바랍니다. 
+** 자세한 코드는 [클릭](https://github.com/worldpapa/dataintern_CategoryClassification/blob/main/_bficCategoryClassificationModeling.ipynb) 참고 바랍니다. 
